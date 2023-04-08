@@ -282,6 +282,7 @@ ahihi tao la duy ne
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
 - [Sushil Singh]
+- [Aulris](https://github.com/Aulris16)
 - [Alaeddine Hamroun](https://github.com/alaeddinehamroun) 
 - [Alan Lipschutz](https://github.com/alanlipschutz)
 - [Shivam Choudhary](https://github.com/shivamchoudhary19)
